@@ -11,9 +11,9 @@ type StyledBtnPropsType = {
 export const StyledBtn = styled.button <StyledBtnPropsType>`
   
   margin: 15px 5px;
-  padding: 7px;
   border: 2px solid #228dd9;
   border-radius: 5px;
+  padding: 7px;
   &:hover {
     background-color: green;
   }
