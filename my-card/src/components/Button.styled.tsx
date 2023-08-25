@@ -12,8 +12,8 @@ export const StyledBtn = styled.button <StyledBtnPropsType>`
   
   margin: 15px 5px;
   border: 2px solid #228dd9;
-  padding: 7px;
   border-radius: 5px;
+  padding: 7px;
   &:hover {
     background-color: green;
   }
